@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'portfoliowatcherapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_19328D4B0C794698A2B50B9F2D895D95 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BC67D04BF22B481FACDE78B7D2668A4D }}
