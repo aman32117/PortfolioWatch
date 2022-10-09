@@ -25,7 +25,7 @@ SECRET_KEY = '@b(k!-1xpj%xb-y$($!+3ss+1umj@z9tnd-3pbkmdreu+$=h=b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
